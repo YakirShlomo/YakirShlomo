@@ -20,9 +20,9 @@ A brief description of the project, its purpose, and the technologies used.
 
 
 ### 📫 Contact
-- **Email:** [your_email@example.com](mailto:shlomoyakir00#gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yakir-shlomo/)
-- **GitHub:** [github.com/username](https://github.com/YakirShlomo)
+- **Email:** [shlomoyakir00@gmail.com](mailto:shlomoyakir00#gmail.com)
+- **LinkedIn:** [linkedin.com/in/yakir-shlomo/](https://www.linkedin.com/in/yakir-shlomo/)
+- **GitHub:** [github.com/YakirShlomo](https://github.com/YakirShlomo)
 
 ### 🚀 Beyond Programming
 - Hobbies: Game development, Competitive online games.
