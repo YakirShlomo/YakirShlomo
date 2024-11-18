@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Yakir Shlomo
 
 ### 👨‍🎓 About Me
-I'm a Software Engineering undergraduate student, currently in my second year out of four. Born on 8.9.2000, I aspire to become a highly skilled developer, graduate with honors, and create a variety of projects such as websites and games.
+I'm a Software Engineering undergraduate student, currently in my second year out of four. I aspire to become a highly skilled developer, graduate with honors, and create a variety of projects such as websites and games.
 
 ### 🎯 Goals
 - **Graduate with honors.**
