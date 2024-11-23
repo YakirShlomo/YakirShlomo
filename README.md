@@ -9,14 +9,20 @@ I'm a Software Engineering undergraduate student, currently in my second year ou
 - **Build personal projects that impress employers and contribute to the community.**
 
 ### 💻 Technologies and Tools I Use
-- Programming Languages: Python, Java, C++, JavaScript.
-- Web Development: HTML, CSS, React.
-- Databases: MySQL, MongoDB.
-- Tools: Git, Visual Studio Code.
+- Programming Languages: Python, C++.
+- Web Development: HTML, JavaScript, CSS3.
+- Design Tools: Illustrator, Photoshop, Premiere Pro, After Effects.
+- Game Development: Unreal Engine 5, Blender.
+- Operating Systems: Linux.
+- Development Tools: VS Code, CLion, PyCharm.
+- Version Control: Git, GitHub.
+- AI Tools: ChatGPT.
 
 ### 🌟 Projects
 #### [📂 Project 1: Yakir-Shlomo-WebSite](https://github.com/YakirShlomo/Yakir-Shlomo-WebSite)
-A brief description of the project, its purpose, and the technologies used.
+This website serves as a professional and responsive portfolio, crafted using **HTML5**, **CSS3**, and **JavaScript**.
+It elegantly showcases my skills, the projects I've developed, and my professional experience. 
+Key features include a dynamic video background in the hero section, skill filtering options, seamless navigation, and full mobile responsiveness, ensuring an exceptional user experience across all devices.
 
 
 ### 📫 Contact
