@@ -19,7 +19,7 @@ I'm a Software Engineering undergraduate student, currently in my second year ou
 - AI Tools: ChatGPT.
 
 ### 🌟 Projects
-#### [📂 Project 1: Yakir-Shlomo-WebSite](https://github.com/YakirShlomo/Yakir-Shlomo-WebSite)
+#### [📂 Project 1: My-Portfolio](https://github.com/YakirShlomo/My-Portfolio)
 This website serves as a professional and responsive portfolio, crafted using **HTML5**, **CSS3**, and **JavaScript**.
 It elegantly showcases my skills, the projects I've developed, and my professional experience. 
 Key features include a dynamic video background in the hero section, skill filtering options, seamless navigation, and full mobile responsiveness, ensuring an exceptional user experience across all devices.
