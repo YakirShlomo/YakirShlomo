@@ -4,7 +4,6 @@
 I'm a Software Engineering undergraduate student, currently in my second year out of four. I aspire to become a highly skilled developer, graduate with honors, and create a variety of projects such as websites and games.
 
 ### 🎯 Goals
-- **Graduate with honors.**
 - **Develop skills in programming and software development.**
 - **Build personal projects that impress employers and contribute to the community.**
 
@@ -24,11 +23,14 @@ This website serves as a professional and responsive portfolio, crafted using **
 It elegantly showcases my skills, the projects I've developed, and my professional experience. 
 Key features include a dynamic video background in the hero section, skill filtering options, seamless navigation, and full mobile responsiveness, ensuring an exceptional user experience across all devices.
 
+#### [📂 Project 2: StarWars-Cinematic-Scene](https://github.com/YakirShlomo/StarWars-Cinematic-Scene)
+This project is a cinematic scene inspired by the Star Wars, using **Unreal Engine 5**.
+
 
 ### 📫 Contact
 - **Email:** [shlomoyakir00@gmail.com](mailto:shlomoyakir00#gmail.com)
 - **LinkedIn:** [linkedin.com/in/yakir-shlomo/](https://www.linkedin.com/in/yakir-shlomo/)
-- **GitHub:** [github.com/YakirShlomo](https://github.com/YakirShlomo)
+- **Whatsapp:** [052-464-2361](https://wa.me/972524642361)
 
 ### 🚀 Beyond Programming
 - Hobbies: Game development, Competitive online games.
