@@ -1,8 +1,9 @@
 # 👋 Hello! I'm Yakir Shlomo
 
+
 ### 👨‍🎓 About Me
 I'm a Software Engineering undergraduate student, currently in my second year out of four. I aspire to become a highly skilled developer, graduate with honors, and create a variety of projects such as websites and games.
-
+<p> <img src="https://komarev.com/ghpvc/?username=YakirShlomo&label=Profile%20views&color=0e75b6&style=flat" alt="YakirShlomo" align="center" /> </p>
 ### 🎯 Goals
 - **Develop skills in programming and software development.**
 - **Build personal projects that impress employers and contribute to the community.**
@@ -16,6 +17,8 @@ I'm a Software Engineering undergraduate student, currently in my second year ou
 - Development Tools: VS Code, CLion, PyCharm.
 - Version Control: Git, GitHub.
 - AI Tools: ChatGPT.
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakirShlomo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 Projects
 #### [📂 Project 1: My-Portfolio](https://github.com/YakirShlomo/My-Portfolio)
