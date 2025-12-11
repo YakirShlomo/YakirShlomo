@@ -18,7 +18,9 @@ I'm a Software Engineering undergraduate student, currently in my second year ou
 - Version Control: Git, GitHub.
 - AI Tools: ChatGPT.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakirShlomo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakirShlomo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🌟 Projects
 #### [📂 Project 1: My-Portfolio](https://github.com/YakirShlomo/My-Portfolio)
